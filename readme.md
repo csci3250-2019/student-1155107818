@@ -12,6 +12,7 @@ NO
 - [X] ... 
 
 Name|True shape|Masterpiece
+:--|:--:|--:
 MIN YUNKI|Kitty|Seesaw
 JEON JUNGKOOK|Rabbit|Euphoria
 KIM TAEHYUNG|Tiger|Singularity
