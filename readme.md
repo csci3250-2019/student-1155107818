@@ -17,3 +17,5 @@ MIN YUNKI|Kitty|Seesaw
 JEON JUNGKOOK|Rabbit|Euphoria
 KIM TAEHYUNG|Tiger|Singularity
 PARK JIMIN|Puppy|Fake Love
+
+![screenshot](https://github.com/csci3250-2019/student-1155107818/blob/master/1.jpeg)
