@@ -19,3 +19,6 @@ KIM TAEHYUNG|Tiger|Singularity
 PARK JIMIN|Puppy|Fake Love
 
 ![screenshot](https://github.com/csci3250-2019/student-1155107818/blob/master/1.jpeg)
+![screenshot](https://github.com/csci3250-2019/student-1155107818/blob/master/2.jpeg)
+![screenshot](https://github.com/csci3250-2019/student-1155107818/blob/master/3.jpeg)
+![screenshot](https://github.com/csci3250-2019/student-1155107818/blob/master/4.jpeg)
